@@ -1,16 +1,18 @@
-## Hi there 👋
+# 你好，我是 Floater花上（floaterhs）  👋
 
-<!--
-**floaterhs/floaterhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一名正在学习AI全栈的开发者（AI FullStack Dev）
 
-Here are some ideas to get you started:
+## 🛠 技术栈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Vue
+- React
+- TypeScript
+- Java
+- Node.js
+- Python
+
+## 📫 联系我（Contact Me）
+
+- GitHub: https://github.com/floaterhs
+- 谷歌邮箱（Gmail）: floaterhs@gmail.com
+- 网易邮箱（Netease）：floaterhs@163.com
