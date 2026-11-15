@@ -3,12 +3,10 @@
 AI全栈开发者（AI FullStack Dev）
 
 ## 🛠 技术栈
-- TypeScript
-- Vue
-- React
-- Node.js
-- Python
-- Java
+- TypeScript（Vue/React）
+- Node.js（NestJS）
+- Python（FastAPI）
+- Java（SpringBoot）
 
 ## 📫 联系我（Contact Me）
 
