@@ -2,7 +2,7 @@
 
 AI全栈开发者（AI FullStack Dev）
 
-## 🛠 技术栈
+## 🛠 技术栈（Tech Stack）
 - TypeScript（Vue/React）
 - Node.js（NestJS）
 - Python（FastAPI）
