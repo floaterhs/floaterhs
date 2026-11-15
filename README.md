@@ -1,15 +1,14 @@
 # 你好，我是 Floater花上（floaterhs）  👋
 
-一名正在学习AI全栈的开发者（AI FullStack Dev）
+AI全栈开发者（AI FullStack Dev）
 
 ## 🛠 技术栈
-
+- TypeScript
 - Vue
 - React
-- TypeScript
-- Java
 - Node.js
 - Python
+- Java
 
 ## 📫 联系我（Contact Me）
 
